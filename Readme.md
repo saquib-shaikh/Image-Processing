@@ -2,7 +2,7 @@
 Image processing API is project for resizing Images using sharp module.
 
 ## getting Started 
-Put any image in photo/imagesOrig folder
+Put any image in photos/imagesOrig folder
 start the project by running command "npm start"
 use following url to resize the image.
 then you will get the resized image in photos/resized folder
